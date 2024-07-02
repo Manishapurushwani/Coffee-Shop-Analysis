@@ -68,6 +68,9 @@ Utilized MySql and DAX to make measures and calculations for Total sales, Total 
 <li>Which are the top 10 products by sales?</li>
 <li>How does sales performance vary by days and hours?</li>
 
+## Result
+![Dashboard](https://github.com/Manishapurushwani/Coffee-Shop-Analysis/assets/124506860/e05d8d96-30fd-43e0-aca6-e99822c0dcc8)
+
 ## Recommendations
 Based on the analysis, the following insights and recommendations were derived:
 <li><b>Optimize Product Mix:</b> Focus on high-performing products and consider phasing out or improving low-performing products.</li>
